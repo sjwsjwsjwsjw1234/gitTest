@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/sjw/Desktop/CmakeLearn/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/sjw/Desktop/CmakeLearn/main.cpp",
+  "file": "/Users/sjw/Desktop/CmakeLearn/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/sjw/Desktop/CmakeLearn/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/add.cpp.o -c /Users/sjw/Desktop/CmakeLearn/add.cpp",
+  "file": "/Users/sjw/Desktop/CmakeLearn/add.cpp",
+  "output": "CMakeFiles/main.dir/add.cpp.o"
+},
+{
+  "directory": "/Users/sjw/Desktop/CmakeLearn/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/mul.cpp.o -c /Users/sjw/Desktop/CmakeLearn/mul.cpp",
+  "file": "/Users/sjw/Desktop/CmakeLearn/mul.cpp",
+  "output": "CMakeFiles/main.dir/mul.cpp.o"
+},
+{
+  "directory": "/Users/sjw/Desktop/CmakeLearn/build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/divi.cpp.o -c /Users/sjw/Desktop/CmakeLearn/divi.cpp",
+  "file": "/Users/sjw/Desktop/CmakeLearn/divi.cpp",
+  "output": "CMakeFiles/main.dir/divi.cpp.o"
+}
+]

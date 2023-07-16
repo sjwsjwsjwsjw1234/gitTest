@@ -1,0 +1,5 @@
+sudo docker run --name songjunwei-dev -it --privileged --net host -d -v /home/web_server/songjunwei:/home/web_server/songjunwei registry.corp.kuaishou.com/ksp/video/algo/atlas-live:1.0.203-live-c
+
+
+
+sudo docker exec -it songjunwei-dev bash

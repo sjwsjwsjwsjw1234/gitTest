@@ -1,0 +1,2115 @@
+live-engine/mgmt/config_manager.py:1:1: F401 'email.policy' imported but unused
+live-engine/mgmt/config_manager.py:17:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/config_manager.py:18:4: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:18:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/config_manager.py:19:8: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:20:8: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:21:8: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:22:8: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:23:8: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:24:8: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:26:4: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:27:8: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:27:80: E501 line too long (130 > 79 characters)
+live-engine/mgmt/config_manager.py:29:4: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:30:8: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:30:80: E501 line too long (139 > 79 characters)
+live-engine/mgmt/config_manager.py:30:140: W291 trailing whitespace
+live-engine/mgmt/config_manager.py:41:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/config_manager.py:43:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:43:14: E117 over-indented
+live-engine/mgmt/config_manager.py:45:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:45:14: E117 over-indented
+live-engine/mgmt/config_manager.py:59:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:59:14: E117 over-indented
+live-engine/mgmt/config_manager.py:60:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:61:19: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:61:19: E117 over-indented
+live-engine/mgmt/config_manager.py:62:19: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:63:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:64:19: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:64:19: E117 over-indented
+live-engine/mgmt/config_manager.py:65:1: W293 blank line contains whitespace
+live-engine/mgmt/config_manager.py:71:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:71:14: E117 over-indented
+live-engine/mgmt/config_manager.py:71:16: E275 missing whitespace after keyword
+live-engine/mgmt/config_manager.py:71:56: E203 whitespace before ':'
+live-engine/mgmt/config_manager.py:72:19: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:72:19: E117 over-indented
+live-engine/mgmt/config_manager.py:73:19: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:74:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:76:48: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:76:50: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:76:73: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:76:75: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:76:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/config_manager.py:89:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/config_manager.py:110:50: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:110:52: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:110:75: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:110:77: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:110:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/config_manager.py:116:13: F841 local variable 'is_gray' is assigned to but never used
+live-engine/mgmt/config_manager.py:121:59: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:121:61: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:121:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/config_manager.py:121:84: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:121:86: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:129:23: W291 trailing whitespace
+live-engine/mgmt/config_manager.py:139:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:139:14: E117 over-indented
+live-engine/mgmt/config_manager.py:141:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:141:14: E117 over-indented
+live-engine/mgmt/config_manager.py:142:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:143:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:145:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:147:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:148:14: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:150:56: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:150:58: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:150:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/config_manager.py:150:81: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:150:83: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:161:18: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:161:18: E117 over-indented
+live-engine/mgmt/config_manager.py:166:46: E231 missing whitespace after ','
+live-engine/mgmt/config_manager.py:167:18: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:169:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/config_manager.py:169:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/config_manager.py:178:9: F841 local variable 'tmpl_dict' is assigned to but never used
+live-engine/mgmt/config_manager.py:179:9: F841 local variable 'temp_json' is assigned to but never used
+live-engine/mgmt/config_manager.py:182:80: E501 line too long (132 > 79 characters)
+live-engine/mgmt/config_manager.py:183:20: F821 undefined name 'tmpl_json'
+live-engine/mgmt/config_manager.py:187:80: E501 line too long (111 > 79 characters)
+live-engine/mgmt/config_manager.py:188:20: F821 undefined name 'tmpl_json'
+live-engine/mgmt/config_manager.py:189:1: W293 blank line contains whitespace
+live-engine/mgmt/config_manager.py:192:80: E501 line too long (111 > 79 characters)
+live-engine/mgmt/config_manager.py:214:56: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:214:58: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:214:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/config_manager.py:214:81: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:214:83: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:224:18: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:224:18: E117 over-indented
+live-engine/mgmt/config_manager.py:226:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/config_manager.py:227:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/config_manager.py:233:46: E231 missing whitespace after ','
+live-engine/mgmt/config_manager.py:234:18: F841 local variable 'e' is assigned to but never used
+live-engine/mgmt/config_manager.py:234:18: E111 indentation is not a multiple of 4
+live-engine/mgmt/config_manager.py:236:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/config_manager.py:236:80: E501 line too long (121 > 79 characters)
+live-engine/mgmt/config_manager.py:239:30: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:239:32: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/config_manager.py:250:80: E501 line too long (115 > 79 characters)
+live-engine/mgmt/config_manager.py:265:80: E501 line too long (122 > 79 characters)
+live-engine/mgmt/constants.py:62:29: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:63:28: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:64:33: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:65:27: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:66:27: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:97:20: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:98:29: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:103:20: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:104:16: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:109:26: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:110:28: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:115:33: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:116:28: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:117:30: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:118:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/constants.py:148:23: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:149:22: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:150:24: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:193:22: E221 multiple spaces before operator
+live-engine/mgmt/constants.py:293:68: W291 trailing whitespace
+live-engine/mgmt/cpu_percent.py:2:1: F401 'sys' imported but unused
+live-engine/mgmt/cpu_percent.py:3:1: F401 'subprocess' imported but unused
+live-engine/mgmt/cpu_percent.py:10:36: E231 missing whitespace after ','
+live-engine/mgmt/cpu_percent.py:34:41: E231 missing whitespace after ','
+live-engine/mgmt/cpu_percent.py:56:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/cpu_percent.py:64:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/cpu_throttled_periods.py:1:1: F401 'utils' imported but unused
+live-engine/mgmt/cpu_throttled_periods.py:2:1: F401 'lyanna_errors.Errors' imported but unused
+live-engine/mgmt/cpu_throttled_periods.py:6:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/cpu_throttled_periods.py:31:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/cpu_throttled_periods.py:39:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/device_config.py:16:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/device_config.py:45:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/device_config.py:48:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/device_config.py:56:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/device_config.py:59:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/device_config.py:63:23: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/device_config.py:72:68: F841 local variable 'f' is assigned to but never used
+live-engine/mgmt/device_config.py:73:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/device_config.py:74:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/device_config.py:76:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/device_config.py:132:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/device_config.py:134:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/device_config.py:138:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/device_config.py:185:80: E501 line too long (104 > 79 characters)
+live-engine/mgmt/device_config.py:187:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/device_config.py:187:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/device_config.py:195:5: E303 too many blank lines (2)
+live-engine/mgmt/device_config.py:213:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/device_config.py:277:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/device_config.py:317:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/device_config.py:332:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/device_config.py:333:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/device_config.py:339:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/device_config.py:339:80: E501 line too long (111 > 79 characters)
+live-engine/mgmt/device_config.py:348:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/device_config.py:354:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/device_config.py:354:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/device_config.py:361:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/device_config.py:365:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/device_config.py:368:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/device_config.py:376:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/device_config.py:379:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/device_config.py:383:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/device_config.py:387:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/device_config.py:390:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/device_config.py:394:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/device_config.py:398:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/device_config.py:401:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/device_config.py:409:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/device_config.py:412:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/device_config.py:420:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/device_config.py:423:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/device_config.py:427:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/device_config.py:431:80: E501 line too long (114 > 79 characters)
+live-engine/mgmt/device_config.py:434:80: E501 line too long (111 > 79 characters)
+live-engine/mgmt/device_config.py:438:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/device_config.py:445:1: W391 blank line at end of file
+live-engine/mgmt/hit_condition_check.py:71:29: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/hit_condition_check.py:72:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/hit_condition_check.py:218:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/hit_condition_check.py:219:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/hit_condition_check.py:222:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/hit_condition_check.py:224:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/hit_condition_check.py:240:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/hit_condition_check.py:242:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/hit_condition_check.py:256:46: W292 no newline at end of file
+live-engine/mgmt/kwai.py:3:1: E265 block comment should start with '# '
+live-engine/mgmt/kwai.py:5:1: F401 're' imported but unused
+live-engine/mgmt/kwai.py:6:1: F401 'sys' imported but unused
+live-engine/mgmt/kwai.py:6:10: E401 multiple imports on one line
+live-engine/mgmt/kwai.py:7:1: F401 'os.path' imported but unused
+live-engine/mgmt/kwai.py:8:1: F811 redefinition of unused 'stat' from line 6
+live-engine/mgmt/kwai.py:8:1: F401 'stat' imported but unused
+live-engine/mgmt/kwai.py:9:1: F401 'json' imported but unused
+live-engine/mgmt/kwai.py:13:1: E265 block comment should start with '# '
+live-engine/mgmt/kwai.py:14:1: E265 block comment should start with '# '
+live-engine/mgmt/kwai.py:15:1: E265 block comment should start with '# '
+live-engine/mgmt/kwai.py:16:1: E265 block comment should start with '# '
+live-engine/mgmt/kwai.py:22:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/kwai.py:33:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/kwai.py:41:5: E303 too many blank lines (2)
+live-engine/mgmt/kwai.py:58:13: F841 local variable 'sts' is assigned to but never used
+live-engine/mgmt/kwai.py:59:80: E501 line too long (123 > 79 characters)
+live-engine/mgmt/kwai.py:63:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/kwai.py:66:1: W391 blank line at end of file
+live-engine/mgmt/kwai_api.py:5:1: F401 'os' imported but unused
+live-engine/mgmt/kwai_api.py:6:1: F401 'datetime' imported but unused
+live-engine/mgmt/kwai_api.py:9:1: E722 do not use bare 'except'
+live-engine/mgmt/kwai_api.py:17:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/kwai_api.py:31:80: E501 line too long (119 > 79 characters)
+live-engine/mgmt/kwai_api.py:40:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/kwai_api.py:42:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/kwai_api.py:43:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/kwai_api.py:45:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/kwai_api.py:59:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/kwai_api.py:61:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/kwai_api.py:62:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/kwai_api.py:64:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/kwai_api.py:72:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/kwai_api.py:73:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/kwai_api.py:74:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/kwai_api.py:78:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/kwai_api.py:79:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/kwai_api.py:82:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/kwai_api.py:89:80: E501 line too long (121 > 79 characters)
+live-engine/mgmt/kwai_api.py:92:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/kwai_api.py:94:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/kwai_api.py:95:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/kwai_api.py:97:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/kwai_api.py:103:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/kwai_api.py:119:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/kwai_api.py:120:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/kwai_api.py:124:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/kwai_api.py:135:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/kwai_api.py:136:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/kwai_api.py:139:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/kwai_api.py:141:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/kwai_api.py:155:80: E501 line too long (119 > 79 characters)
+live-engine/mgmt/kwai_api.py:162:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/kwai_api.py:164:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/kwai_api.py:172:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/kwai_api.py:175:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/kwai_api.py:177:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/kwai_api.py:178:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/kwai_api.py:180:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/kwai_api.py:186:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/kwai_api.py:218:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/kwai_api.py:224:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/kwai_api.py:245:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/kwai_api.py:250:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/kwai_api.py:253:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/kwai_api.py:257:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/kwai_api.py:258:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/kwai_api.py:259:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/kwai_api.py:275:1: W391 blank line at end of file
+live-engine/mgmt/live_engine_app.py:7:1: E722 do not use bare 'except'
+live-engine/mgmt/live_engine_app.py:8:5: F401 'simplejson as json' imported but unused
+live-engine/mgmt/live_engine_app.py:11:1: F403 'from kwai_api import *' used; unable to detect undefined names
+live-engine/mgmt/live_engine_app.py:12:1: F401 'cherrypy' imported but unused
+live-engine/mgmt/live_engine_app.py:14:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/live_engine_app.py:24:19: F405 'V1' may be undefined, or defined from star imports: kwai_api
+live-engine/mgmt/live_engine_app.py:25:24: E127 continuation line over-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:5:1: F401 'glob' imported but unused
+live-engine/mgmt/live_engine_manager.py:9:1: E722 do not use bare 'except'
+live-engine/mgmt/live_engine_manager.py:12:12: E401 multiple imports on one line
+live-engine/mgmt/live_engine_manager.py:16:1: F401 'logging' imported but unused
+live-engine/mgmt/live_engine_manager.py:17:1: F401 'tempfile' imported but unused
+live-engine/mgmt/live_engine_manager.py:29:1: F401 'system_load_policy.get_force_audio_transcode' imported but unused
+live-engine/mgmt/live_engine_manager.py:33:1: F403 'from config_manager import *' used; unable to detect undefined names
+live-engine/mgmt/live_engine_manager.py:39:1: F401 'kconf.exception.KConfError' imported but unused
+live-engine/mgmt/live_engine_manager.py:41:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/live_engine_manager.py:76:47: W291 trailing whitespace
+live-engine/mgmt/live_engine_manager.py:78:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:87:80: E501 line too long (116 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:89:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:92:52: W291 trailing whitespace
+live-engine/mgmt/live_engine_manager.py:98:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:100:46: W291 trailing whitespace
+live-engine/mgmt/live_engine_manager.py:101:80: E501 line too long (122 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:107:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:110:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:120:80: E501 line too long (109 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:124:27: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:127:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:130:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:133:9: F405 'getConfigerManager' may be undefined, or defined from star imports: config_manager
+live-engine/mgmt/live_engine_manager.py:134:9: F405 'getConfigerManager' may be undefined, or defined from star imports: config_manager
+live-engine/mgmt/live_engine_manager.py:136:33: F405 'getConfigerManager' may be undefined, or defined from star imports: config_manager
+live-engine/mgmt/live_engine_manager.py:137:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:140:80: E501 line too long (122 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:145:80: E501 line too long (115 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:146:57: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:146:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:147:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:148:80: E501 line too long (116 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:149:57: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:149:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:150:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:151:80: E501 line too long (114 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:152:57: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:152:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:153:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:154:80: E501 line too long (114 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:155:57: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:155:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:156:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:165:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:196:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:203:53: W291 trailing whitespace
+live-engine/mgmt/live_engine_manager.py:205:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:211:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:215:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:216:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:220:35: E703 statement ends with a semicolon
+live-engine/mgmt/live_engine_manager.py:223:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:229:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:236:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:236:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:246:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:259:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:259:80: E501 line too long (125 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:270:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:292:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:307:28: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/live_engine_manager.py:309:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:322:9: F841 local variable 'es' is assigned to but never used
+live-engine/mgmt/live_engine_manager.py:323:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:323:89: F405 'ex' may be undefined, or defined from star imports: config_manager
+live-engine/mgmt/live_engine_manager.py:328:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:329:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:332:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:333:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:338:80: E501 line too long (114 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:345:9: F841 local variable 'es' is assigned to but never used
+live-engine/mgmt/live_engine_manager.py:347:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:347:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:347:111: F405 'ex' may be undefined, or defined from star imports: config_manager
+live-engine/mgmt/live_engine_manager.py:357:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:358:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:358:85: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:358:87: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:364:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:364:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:383:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:386:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:387:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:396:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:396:83: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:396:85: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:417:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:417:98: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:417:100: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:438:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:439:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:440:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:469:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:474:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:479:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:484:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:487:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:491:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:494:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:501:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:508:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:512:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:519:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:521:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:525:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:527:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:527:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:531:9: F841 local variable 'addl_score' is assigned to but never used
+live-engine/mgmt/live_engine_manager.py:534:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:549:80: E501 line too long (112 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:554:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:557:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:569:68: W291 trailing whitespace
+live-engine/mgmt/live_engine_manager.py:580:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:580:80: E501 line too long (123 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:583:80: E501 line too long (114 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:586:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:586:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:594:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:595:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:599:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:601:80: E501 line too long (158 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:602:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:609:80: E501 line too long (122 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:615:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:628:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:646:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:646:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:647:80: E501 line too long (109 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:670:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:670:80: E501 line too long (115 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:671:80: E501 line too long (109 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:675:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:679:80: E501 line too long (116 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:682:80: E501 line too long (134 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:682:134: E703 statement ends with a semicolon
+live-engine/mgmt/live_engine_manager.py:684:80: E501 line too long (123 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:691:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:691:89: E703 statement ends with a semicolon
+live-engine/mgmt/live_engine_manager.py:693:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:694:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:697:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:702:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:707:20: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/live_engine_manager.py:709:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:709:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:715:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:719:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:725:25: E127 continuation line over-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:725:80: E501 line too long (115 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:732:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:733:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:736:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:739:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:739:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:740:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:743:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:743:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:759:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:762:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:766:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:769:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:775:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:779:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:779:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:793:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:795:80: E501 line too long (104 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:825:48: E261 at least two spaces before inline comment
+live-engine/mgmt/live_engine_manager.py:826:26: E231 missing whitespace after ':'
+live-engine/mgmt/live_engine_manager.py:841:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:842:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:852:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:857:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:861:80: E501 line too long (120 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:864:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:869:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:874:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:880:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:888:59: W291 trailing whitespace
+live-engine/mgmt/live_engine_manager.py:899:66: W291 trailing whitespace
+live-engine/mgmt/live_engine_manager.py:907:44: W291 trailing whitespace
+live-engine/mgmt/live_engine_manager.py:908:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:918:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:921:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:921:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:925:80: E501 line too long (127 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:934:52: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:935:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:935:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:939:52: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:940:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:949:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:950:56: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:951:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:955:52: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:956:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:956:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:960:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:963:52: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:964:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:972:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:990:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1008:80: E501 line too long (156 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1010:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1011:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1013:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1014:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1015:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1018:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1018:88: W291 trailing whitespace
+live-engine/mgmt/live_engine_manager.py:1020:80: E501 line too long (162 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1025:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1028:80: E501 line too long (109 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1033:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1049:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1062:24: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/live_engine_manager.py:1077:60: F841 local variable 'f' is assigned to but never used
+live-engine/mgmt/live_engine_manager.py:1078:80: E501 line too long (138 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1083:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1083:80: E501 line too long (144 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1090:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1090:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1096:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1096:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1102:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1102:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1108:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1108:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1114:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1114:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1119:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1119:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1136:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1144:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1144:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1158:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1158:80: E501 line too long (130 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1162:78: E703 statement ends with a semicolon
+live-engine/mgmt/live_engine_manager.py:1171:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1174:26: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/live_engine_manager.py:1187:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1187:80: E501 line too long (129 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1197:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1198:60: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/live_engine_manager.py:1198:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1204:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1210:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1210:80: E501 line too long (122 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1214:67: E703 statement ends with a semicolon
+live-engine/mgmt/live_engine_manager.py:1223:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1226:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1230:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1231:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1232:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1239:33: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/live_engine_manager.py:1242:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1246:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1251:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1256:76: E703 statement ends with a semicolon
+live-engine/mgmt/live_engine_manager.py:1259:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1260:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1266:35: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/live_engine_manager.py:1288:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1300:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1319:22: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1320:22: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1321:18: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1322:28: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1345:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:1361:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:1366:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1366:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1370:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1370:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1382:9: E303 too many blank lines (2)
+live-engine/mgmt/live_engine_manager.py:1395:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1402:80: E501 line too long (121 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1411:13: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1411:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1425:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1435:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1436:15: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1437:14: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1438:24: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1440:26: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1441:9: F841 local variable 'names' is assigned to but never used
+live-engine/mgmt/live_engine_manager.py:1441:14: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1442:13: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1443:17: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1444:17: E221 multiple spaces before operator
+live-engine/mgmt/live_engine_manager.py:1449:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:1458:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1494:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1499:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1504:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1505:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1505:98: W291 trailing whitespace
+live-engine/mgmt/live_engine_manager.py:1506:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:1516:80: E501 line too long (122 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1520:80: E501 line too long (131 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1524:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:1529:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:1530:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1531:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1535:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1535:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1537:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1542:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:1571:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1571:80: E501 line too long (119 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1575:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1575:80: E703 statement ends with a semicolon
+live-engine/mgmt/live_engine_manager.py:1584:31: E203 whitespace before ':'
+live-engine/mgmt/live_engine_manager.py:1586:54: E203 whitespace before ':'
+live-engine/mgmt/live_engine_manager.py:1588:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1591:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1593:80: E501 line too long (204 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1594:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1596:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1604:80: E501 line too long (164 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1606:1: W293 blank line contains whitespace
+live-engine/mgmt/live_engine_manager.py:1607:39: E203 whitespace before ':'
+live-engine/mgmt/live_engine_manager.py:1607:41: W291 trailing whitespace
+live-engine/mgmt/live_engine_manager.py:1608:80: E501 line too long (173 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1610:38: E203 whitespace before ':'
+live-engine/mgmt/live_engine_manager.py:1614:38: E203 whitespace before ':'
+live-engine/mgmt/live_engine_manager.py:1617:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1639:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1643:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1644:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1649:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1649:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1651:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1651:80: E501 line too long (116 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1659:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1670:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1674:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1686:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/live_engine_manager.py:1686:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1703:9: F405 'getConfigerManager' may be undefined, or defined from star imports: config_manager
+live-engine/mgmt/live_engine_manager.py:1704:9: F405 'getConfigerManager' may be undefined, or defined from star imports: config_manager
+live-engine/mgmt/live_engine_manager.py:1707:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1708:80: E501 line too long (120 > 79 characters)
+live-engine/mgmt/live_engine_manager.py:1712:23: E261 at least two spaces before inline comment
+live-engine/mgmt/live_engine_manager.py:1715:1: W391 blank line at end of file
+live-engine/mgmt/lyanna_errors.py:6:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/lyanna_errors.py:149:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/mgmt_signal_handler.py:1:1: F401 'cherrypy' imported but unused
+live-engine/mgmt/mgmt_signal_handler.py:14:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/mgmt_signal_handler.py:16:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/mgmt_signal_handler.py:22:24: W292 no newline at end of file
+live-engine/mgmt/mgmtd.py:4:1: F401 'json.encoder' imported but unused
+live-engine/mgmt/mgmtd.py:6:1: F401 'atexit' imported but unused
+live-engine/mgmt/mgmtd.py:8:1: F401 'time' imported but unused
+live-engine/mgmt/mgmtd.py:12:1: F401 'logging.handlers.RotatingFileHandler' imported but unused
+live-engine/mgmt/mgmtd.py:16:1: E722 do not use bare 'except'
+live-engine/mgmt/mgmtd.py:17:5: F401 'simplejson as json' imported but unused
+live-engine/mgmt/mgmtd.py:19:1: F403 'from kwai_api import *' used; unable to detect undefined names
+live-engine/mgmt/mgmtd.py:47:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/mgmtd.py:49:9: E117 over-indented
+live-engine/mgmt/mgmtd.py:50:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/mgmtd.py:58:23: F405 'Constants' may be undefined, or defined from star imports: kwai_api
+live-engine/mgmt/mgmtd.py:61:46: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:62:29: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:63:29: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:64:29: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:65:29: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:66:29: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:74:9: E303 too many blank lines (2)
+live-engine/mgmt/mgmtd.py:86:30: F405 'utils' may be undefined, or defined from star imports: kwai_api
+live-engine/mgmt/mgmtd.py:87:20: F405 'Errors' may be undefined, or defined from star imports: kwai_api
+live-engine/mgmt/mgmtd.py:98:29: F405 'utils' may be undefined, or defined from star imports: kwai_api
+live-engine/mgmt/mgmtd.py:99:20: F405 'Errors' may be undefined, or defined from star imports: kwai_api
+live-engine/mgmt/mgmtd.py:108:26: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/mgmtd.py:108:51: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/mgmtd.py:113:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/mgmtd.py:117:33: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/mgmtd.py:120:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/mgmtd.py:139:25: F405 'Constants' may be undefined, or defined from star imports: kwai_api
+live-engine/mgmt/mgmtd.py:143:26: F405 'Constants' may be undefined, or defined from star imports: kwai_api
+live-engine/mgmt/mgmtd.py:151:76: W291 trailing whitespace
+live-engine/mgmt/mgmtd.py:153:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/mgmtd.py:158:12: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:158:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/mgmtd.py:159:9: E722 do not use bare 'except'
+live-engine/mgmt/mgmtd.py:159:15: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:160:12: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:160:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/mgmtd.py:161:9: E722 do not use bare 'except'
+live-engine/mgmt/mgmtd.py:161:15: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:162:12: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:162:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/mgmtd.py:163:9: E722 do not use bare 'except'
+live-engine/mgmt/mgmtd.py:163:15: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:165:12: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:166:9: E722 do not use bare 'except'
+live-engine/mgmt/mgmtd.py:166:15: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:167:12: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:168:9: E722 do not use bare 'except'
+live-engine/mgmt/mgmtd.py:168:15: E701 multiple statements on one line (colon)
+live-engine/mgmt/mgmtd.py:173:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/mgmtd.py:176:80: E501 line too long (165 > 79 characters)
+live-engine/mgmt/mgmtd.py:211:9: E265 block comment should start with '# '
+live-engine/mgmt/mgmtd.py:211:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/mgmtd.py:215:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/mgmtd.py:218:80: E501 line too long (166 > 79 characters)
+live-engine/mgmt/mgmtd.py:220:17: E265 block comment should start with '# '
+live-engine/mgmt/mgmtd.py:220:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/mgmtd.py:229:53: W291 trailing whitespace
+live-engine/mgmt/mgmtd.py:230:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/mgmtd.py:232:27: F405 'Constants' may be undefined, or defined from star imports: kwai_api
+live-engine/mgmt/mgmtd.py:234:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/mgmtd.py:241:27: F405 'Constants' may be undefined, or defined from star imports: kwai_api
+live-engine/mgmt/mgmtd.py:243:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/mgmtd.py:261:9: F841 local variable 'e' is assigned to but never used
+live-engine/mgmt/monitor/vastai.py:3:1: E265 block comment should start with '# '
+live-engine/mgmt/monitor/vastai.py:5:1: F401 're' imported but unused
+live-engine/mgmt/monitor/vastai.py:6:10: E401 multiple imports on one line
+live-engine/mgmt/monitor/vastai.py:8:1: F811 redefinition of unused 'stat' from line 6
+live-engine/mgmt/monitor/vastai.py:8:1: F401 'stat' imported but unused
+live-engine/mgmt/monitor/vastai.py:9:1: F401 'json' imported but unused
+live-engine/mgmt/monitor/vastai.py:13:1: F401 'cherrypy' imported but unused
+live-engine/mgmt/monitor/vastai.py:14:1: F401 'threading' imported but unused
+live-engine/mgmt/monitor/vastai.py:19:1: E402 module level import not at top of file
+live-engine/mgmt/monitor/vastai.py:20:1: E402 module level import not at top of file
+live-engine/mgmt/monitor/vastai.py:21:1: E402 module level import not at top of file
+live-engine/mgmt/monitor/vastai.py:22:1: E402 module level import not at top of file
+live-engine/mgmt/monitor/vastai.py:23:1: E402 module level import not at top of file
+live-engine/mgmt/monitor/vastai.py:27:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/monitor/vastai.py:36:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/monitor/vastai.py:100:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:104:80: E501 line too long (126 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:105:80: E501 line too long (141 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:105:115: E231 missing whitespace after ':'
+live-engine/mgmt/monitor/vastai.py:105:131: E231 missing whitespace after ':'
+live-engine/mgmt/monitor/vastai.py:108:80: E501 line too long (115 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:120:27: E221 multiple spaces before operator
+live-engine/mgmt/monitor/vastai.py:121:30: E221 multiple spaces before operator
+live-engine/mgmt/monitor/vastai.py:122:27: E221 multiple spaces before operator
+live-engine/mgmt/monitor/vastai.py:123:31: E221 multiple spaces before operator
+live-engine/mgmt/monitor/vastai.py:124:31: E221 multiple spaces before operator
+live-engine/mgmt/monitor/vastai.py:142:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:204:80: E501 line too long (127 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:205:80: E501 line too long (109 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:233:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:243:20: E231 missing whitespace after ','
+live-engine/mgmt/monitor/vastai.py:244:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:250:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/monitor/vastai.py:257:5: E303 too many blank lines (3)
+live-engine/mgmt/monitor/vastai.py:260:20: E231 missing whitespace after ','
+live-engine/mgmt/monitor/vastai.py:268:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/monitor/vastai.py:274:5: E303 too many blank lines (2)
+live-engine/mgmt/monitor/vastai.py:279:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:280:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:282:16: E111 indentation is not a multiple of 4
+live-engine/mgmt/monitor/vastai.py:282:23: E231 missing whitespace after ','
+live-engine/mgmt/monitor/vastai.py:283:21: E117 over-indented
+live-engine/mgmt/monitor/vastai.py:283:42: E712 comparison to False should be 'if cond is False:' or 'if not cond:'
+live-engine/mgmt/monitor/vastai.py:291:53: E222 multiple spaces after operator
+live-engine/mgmt/monitor/vastai.py:292:64: E225 missing whitespace around operator
+live-engine/mgmt/monitor/vastai.py:292:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:296:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/monitor/vastai.py:332:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:339:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:354:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/monitor/vastai.py:357:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/netint.py:3:1: F401 're' imported but unused
+live-engine/mgmt/netint.py:5:1: F401 'random' imported but unused
+live-engine/mgmt/netint.py:7:1: F401 'os' imported but unused
+live-engine/mgmt/netint.py:16:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/netint.py:30:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/netint.py:33:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/netint.py:34:63: E127 continuation line over-indented for visual indent
+live-engine/mgmt/netint.py:38:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/netint.py:43:80: E501 line too long (125 > 79 characters)
+live-engine/mgmt/netint.py:49:80: E501 line too long (160 > 79 characters)
+live-engine/mgmt/netint.py:63:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/netint.py:67:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/netint.py:69:80: E501 line too long (114 > 79 characters)
+live-engine/mgmt/netint.py:74:80: E501 line too long (104 > 79 characters)
+live-engine/mgmt/netint.py:80:5: E265 block comment should start with '# '
+live-engine/mgmt/netint.py:80:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/netint.py:83:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/netint.py:90:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/netint.py:91:5: E265 block comment should start with '# '
+live-engine/mgmt/netint.py:92:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/netint.py:93:79: E703 statement ends with a semicolon
+live-engine/mgmt/netint.py:94:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/netint.py:95:79: E703 statement ends with a semicolon
+live-engine/mgmt/netint.py:97:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/netint.py:107:9: E265 block comment should start with '# '
+live-engine/mgmt/netint.py:108:80: E501 line too long (109 > 79 characters)
+live-engine/mgmt/netint.py:109:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/netint.py:109:92: E703 statement ends with a semicolon
+live-engine/mgmt/netint.py:115:5: E265 block comment should start with '# '
+live-engine/mgmt/nvidia_load.py:9:1: E265 block comment should start with '# '
+live-engine/mgmt/nvidia_load.py:11:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/nvidia_load.py:14:38: E261 at least two spaces before inline comment
+live-engine/mgmt/nvidia_load.py:15:37: E261 at least two spaces before inline comment
+live-engine/mgmt/nvidia_load.py:15:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/nvidia_load.py:26:13: E265 block comment should start with '# '
+live-engine/mgmt/nvidia_load.py:26:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/nvidia_load.py:34:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/nvidia_load.py:60:29: F821 undefined name 'xrange'
+live-engine/mgmt/nvidia_load.py:65:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/nvidia_load.py:67:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/nvidia_load.py:69:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/nvidia_load.py:70:21: E265 block comment should start with '# '
+live-engine/mgmt/nvidia_load.py:71:26: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:72:22: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:75:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/nvidia_load.py:78:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/nvidia_load.py:79:21: E265 block comment should start with '# '
+live-engine/mgmt/nvidia_load.py:80:26: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:81:22: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:84:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/nvidia_load.py:88:21: E265 block comment should start with '# '
+live-engine/mgmt/nvidia_load.py:89:26: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:90:22: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:101:13: E265 block comment should start with '# '
+live-engine/mgmt/nvidia_load.py:101:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/nvidia_load.py:107:13: E265 block comment should start with '# '
+live-engine/mgmt/nvidia_load.py:107:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/nvidia_load.py:108:18: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:116:18: F821 undefined name 'xrange'
+live-engine/mgmt/nvidia_load.py:116:24: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:119:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/nvidia_load.py:120:13: E722 do not use bare 'except'
+live-engine/mgmt/nvidia_load.py:122:49: E261 at least two spaces before inline comment
+live-engine/mgmt/nvidia_load.py:122:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/nvidia_load.py:126:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/nvidia_load.py:127:13: E722 do not use bare 'except'
+live-engine/mgmt/nvidia_load.py:131:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/nvidia_load.py:132:13: E722 do not use bare 'except'
+live-engine/mgmt/nvidia_load.py:137:18: F821 undefined name 'xrange'
+live-engine/mgmt/nvidia_load.py:140:16: E111 indentation is not a multiple of 4
+live-engine/mgmt/nvidia_load.py:145:18: F821 undefined name 'xrange'
+live-engine/mgmt/nvidia_load.py:145:24: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:147:22: F821 undefined name 'xrange'
+live-engine/mgmt/nvidia_load.py:147:28: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:148:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/nvidia_load.py:156:18: F821 undefined name 'xrange'
+live-engine/mgmt/nvidia_load.py:156:24: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:157:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/nvidia_load.py:158:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/nvidia_load.py:164:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/nvidia_load.py:166:10: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:167:14: F821 undefined name 'xrange'
+live-engine/mgmt/nvidia_load.py:169:14: E211 whitespace before '('
+live-engine/mgmt/nvidia_load.py:170:10: E211 whitespace before '('
+live-engine/mgmt/read_wirte_lock.py:3:1: E265 block comment should start with '# '
+live-engine/mgmt/read_wirte_lock.py:4:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/read_wirte_lock.py:20:34: E203 whitespace before ':'
+live-engine/mgmt/read_wirte_lock.py:45:1: W391 blank line at end of file
+live-engine/mgmt/resource_monitor.py:7:1: F401 'psutil' imported but unused
+live-engine/mgmt/resource_monitor.py:11:1: F401 'subprocess' imported but unused
+live-engine/mgmt/resource_monitor.py:17:1: F401 'sg1monitor.client.SG1MonitorClient' imported but unused
+live-engine/mgmt/resource_monitor.py:19:1: F401 'netint' imported but unused
+live-engine/mgmt/resource_monitor.py:25:1: F403 'from config_manager import *' used; unable to detect undefined names
+live-engine/mgmt/resource_monitor.py:27:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/resource_monitor.py:34:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/resource_monitor.py:41:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/resource_monitor.py:53:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/resource_monitor.py:57:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/resource_monitor.py:59:1: W293 blank line contains whitespace
+live-engine/mgmt/resource_monitor.py:60:33: F405 'getConfigerManager' may be undefined, or defined from star imports: config_manager
+live-engine/mgmt/resource_monitor.py:61:80: E501 line too long (139 > 79 characters)
+live-engine/mgmt/resource_monitor.py:105:1: W293 blank line contains whitespace
+live-engine/mgmt/resource_monitor.py:111:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/resource_monitor.py:111:80: E501 line too long (114 > 79 characters)
+live-engine/mgmt/resource_monitor.py:116:5: E303 too many blank lines (2)
+live-engine/mgmt/resource_monitor.py:122:1: W293 blank line contains whitespace
+live-engine/mgmt/resource_monitor.py:126:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/resource_monitor.py:131:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/resource_monitor.py:160:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/resource_monitor.py:166:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/resource_monitor.py:171:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/resource_monitor.py:185:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/resource_monitor.py:207:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/resource_monitor.py:212:24: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:212:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/resource_monitor.py:231:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/resource_monitor.py:235:80: E501 line too long (143 > 79 characters)
+live-engine/mgmt/resource_monitor.py:239:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/resource_monitor.py:241:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/resource_monitor.py:248:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/resource_monitor.py:250:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/resource_monitor.py:253:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/resource_monitor.py:255:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/resource_monitor.py:270:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/resource_monitor.py:273:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/resource_monitor.py:276:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/resource_monitor.py:278:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/resource_monitor.py:279:13: F841 local variable '_' is assigned to but never used
+live-engine/mgmt/resource_monitor.py:281:80: E501 line too long (122 > 79 characters)
+live-engine/mgmt/resource_monitor.py:283:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/resource_monitor.py:285:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/resource_monitor.py:289:27: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:290:30: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:291:29: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:292:31: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:293:30: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:294:31: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:318:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/resource_monitor.py:323:38: E261 at least two spaces before inline comment
+live-engine/mgmt/resource_monitor.py:324:38: E261 at least two spaces before inline comment
+live-engine/mgmt/resource_monitor.py:324:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/resource_monitor.py:332:24: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:333:24: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:334:22: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:335:29: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:345:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/resource_monitor.py:351:13: E265 block comment should start with '# '
+live-engine/mgmt/resource_monitor.py:351:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/resource_monitor.py:368:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/resource_monitor.py:370:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/resource_monitor.py:371:36: E225 missing whitespace around operator
+live-engine/mgmt/resource_monitor.py:371:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/resource_monitor.py:381:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/resource_monitor.py:391:13: E265 block comment should start with '# '
+live-engine/mgmt/resource_monitor.py:393:23: E222 multiple spaces after operator
+live-engine/mgmt/resource_monitor.py:396:80: E501 line too long (109 > 79 characters)
+live-engine/mgmt/resource_monitor.py:407:23: E211 whitespace before '('
+live-engine/mgmt/resource_monitor.py:409:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/resource_monitor.py:410:13: E722 do not use bare 'except'
+live-engine/mgmt/resource_monitor.py:413:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/resource_monitor.py:414:13: E722 do not use bare 'except'
+live-engine/mgmt/resource_monitor.py:418:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/resource_monitor.py:419:13: E722 do not use bare 'except'
+live-engine/mgmt/resource_monitor.py:427:23: E211 whitespace before '('
+live-engine/mgmt/resource_monitor.py:429:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/resource_monitor.py:443:23: E211 whitespace before '('
+live-engine/mgmt/resource_monitor.py:444:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/resource_monitor.py:445:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/resource_monitor.py:449:38: E261 at least two spaces before inline comment
+live-engine/mgmt/resource_monitor.py:453:29: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:453:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/resource_monitor.py:454:29: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:455:32: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:456:32: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:457:39: E221 multiple spaces before operator
+live-engine/mgmt/resource_monitor.py:461:20: E271 multiple spaces after keyword
+live-engine/mgmt/resource_monitor.py:472:27: E261 at least two spaces before inline comment
+live-engine/mgmt/resource_monitor.py:476:64: E261 at least two spaces before inline comment
+live-engine/mgmt/resource_monitor.py:476:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/resource_monitor.py:501:9: F811 redefinition of unused 'netint' from line 19
+live-engine/mgmt/resource_monitor.py:506:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/resource_monitor.py:508:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/resource_monitor.py:509:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/resource_monitor.py:518:1: W293 blank line contains whitespace
+live-engine/mgmt/resource_monitor.py:531:80: E501 line too long (127 > 79 characters)
+live-engine/mgmt/resource_monitor.py:534:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/resource_monitor.py:536:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/resource_monitor.py:565:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/resource_monitor.py:567:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/resource_monitor.py:568:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/resource_monitor.py:569:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/resource_monitor.py:592:80: E501 line too long (124 > 79 characters)
+live-engine/mgmt/resource_monitor.py:596:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/resource_monitor.py:598:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/resource_monitor.py:613:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/resource_monitor.py:629:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/resource_monitor.py:633:80: E501 line too long (142 > 79 characters)
+live-engine/mgmt/resource_monitor.py:634:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/resource_monitor.py:637:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/resource_monitor.py:638:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/resource_monitor.py:639:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/resource_monitor.py:640:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/resource_monitor.py:688:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/resource_monitor.py:689:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/resource_monitor.py:691:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/resource_monitor.py:692:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/resource_monitor.py:693:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/resource_monitor.py:694:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/resource_monitor.py:696:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/resource_monitor.py:698:80: E501 line too long (137 > 79 characters)
+live-engine/mgmt/resource_monitor.py:730:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/resource_monitor.py:732:80: E501 line too long (123 > 79 characters)
+live-engine/mgmt/resource_monitor.py:736:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/resource_monitor.py:745:80: E501 line too long (131 > 79 characters)
+live-engine/mgmt/resource_monitor.py:757:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/resource_monitor.py:773:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/resource_monitor.py:784:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/resource_monitor.py:786:80: E501 line too long (111 > 79 characters)
+live-engine/mgmt/sg1.py:3:1: E265 block comment should start with '# '
+live-engine/mgmt/sg1.py:5:1: F401 're' imported but unused
+live-engine/mgmt/sg1.py:6:1: F401 'sys' imported but unused
+live-engine/mgmt/sg1.py:6:10: E401 multiple imports on one line
+live-engine/mgmt/sg1.py:8:1: F811 redefinition of unused 'stat' from line 6
+live-engine/mgmt/sg1.py:8:1: F401 'stat' imported but unused
+live-engine/mgmt/sg1.py:13:1: E265 block comment should start with '# '
+live-engine/mgmt/sg1.py:14:1: E265 block comment should start with '# '
+live-engine/mgmt/sg1.py:15:1: E265 block comment should start with '# '
+live-engine/mgmt/sg1.py:16:1: E265 block comment should start with '# '
+live-engine/mgmt/system_load_policy.py:1:1: F401 'ctypes.util' imported but unused
+live-engine/mgmt/system_load_policy.py:20:1: F401 'kwai' imported but unused
+live-engine/mgmt/system_load_policy.py:32:1: F401 'utils.process_read_output' imported but unused
+live-engine/mgmt/system_load_policy.py:33:1: F811 redefinition of unused 'KConf' from line 14
+live-engine/mgmt/system_load_policy.py:34:1: F811 redefinition of unused 'KConfError' from line 15
+live-engine/mgmt/system_load_policy.py:34:1: F401 'kconf.exception.KConfError' imported but unused
+live-engine/mgmt/system_load_policy.py:36:1: F403 'from config_manager import *' used; unable to detect undefined names
+live-engine/mgmt/system_load_policy.py:37:1: F403 'from hit_condition_check import *' used; unable to detect undefined names
+live-engine/mgmt/system_load_policy.py:44:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/system_load_policy.py:48:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/system_load_policy.py:51:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/system_load_policy.py:55:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/system_load_policy.py:59:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/system_load_policy.py:60:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/system_load_policy.py:62:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/system_load_policy.py:66:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/system_load_policy.py:70:26: E203 whitespace before ':'
+live-engine/mgmt/system_load_policy.py:71:51: E203 whitespace before ':'
+live-engine/mgmt/system_load_policy.py:76:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/system_load_policy.py:80:8: E225 missing whitespace around operator
+live-engine/mgmt/system_load_policy.py:84:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/system_load_policy.py:86:80: E501 line too long (150 > 79 characters)
+live-engine/mgmt/system_load_policy.py:92:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:100:9: F841 local variable 'ex' is assigned to but never used
+live-engine/mgmt/system_load_policy.py:101:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/system_load_policy.py:104:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/system_load_policy.py:113:9: F841 local variable '_' is assigned to but never used
+live-engine/mgmt/system_load_policy.py:115:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:116:16: E221 multiple spaces before operator
+live-engine/mgmt/system_load_policy.py:129:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:131:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/system_load_policy.py:132:5: F841 local variable 'tag' is assigned to but never used
+live-engine/mgmt/system_load_policy.py:144:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/system_load_policy.py:149:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/system_load_policy.py:157:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/system_load_policy.py:158:37: E221 multiple spaces before operator
+live-engine/mgmt/system_load_policy.py:162:41: E221 multiple spaces before operator
+live-engine/mgmt/system_load_policy.py:165:34: E221 multiple spaces before operator
+live-engine/mgmt/system_load_policy.py:166:34: E221 multiple spaces before operator
+live-engine/mgmt/system_load_policy.py:168:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/system_load_policy.py:187:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:188:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/system_load_policy.py:192:33: F405 'getConfigerManager' may be undefined, or defined from star imports: config_manager, hit_condition_check
+live-engine/mgmt/system_load_policy.py:193:38: F405 'getConfigerManager' may be undefined, or defined from star imports: config_manager, hit_condition_check
+live-engine/mgmt/system_load_policy.py:195:80: E501 line too long (129 > 79 characters)
+live-engine/mgmt/system_load_policy.py:196:80: E501 line too long (140 > 79 characters)
+live-engine/mgmt/system_load_policy.py:198:80: E501 line too long (121 > 79 characters)
+live-engine/mgmt/system_load_policy.py:200:80: E501 line too long (126 > 79 characters)
+live-engine/mgmt/system_load_policy.py:202:80: E501 line too long (185 > 79 characters)
+live-engine/mgmt/system_load_policy.py:204:42: E221 multiple spaces before operator
+live-engine/mgmt/system_load_policy.py:204:80: E501 line too long (166 > 79 characters)
+live-engine/mgmt/system_load_policy.py:207:80: E501 line too long (143 > 79 characters)
+live-engine/mgmt/system_load_policy.py:207:138: E231 missing whitespace after ','
+live-engine/mgmt/system_load_policy.py:208:80: E501 line too long (143 > 79 characters)
+live-engine/mgmt/system_load_policy.py:208:136: E231 missing whitespace after ','
+live-engine/mgmt/system_load_policy.py:211:80: E501 line too long (123 > 79 characters)
+live-engine/mgmt/system_load_policy.py:214:80: E501 line too long (136 > 79 characters)
+live-engine/mgmt/system_load_policy.py:217:80: E501 line too long (142 > 79 characters)
+live-engine/mgmt/system_load_policy.py:219:80: E501 line too long (178 > 79 characters)
+live-engine/mgmt/system_load_policy.py:224:49: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:224:51: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:233:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/system_load_policy.py:235:9: F841 local variable '_' is assigned to but never used
+live-engine/mgmt/system_load_policy.py:259:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:271:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/system_load_policy.py:291:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/system_load_policy.py:322:80: E501 line too long (126 > 79 characters)
+live-engine/mgmt/system_load_policy.py:323:80: E501 line too long (149 > 79 characters)
+live-engine/mgmt/system_load_policy.py:347:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/system_load_policy.py:348:1: W293 blank line contains whitespace
+live-engine/mgmt/system_load_policy.py:354:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:355:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/system_load_policy.py:357:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/system_load_policy.py:360:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:360:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/system_load_policy.py:365:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/system_load_policy.py:370:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:370:80: E501 line too long (131 > 79 characters)
+live-engine/mgmt/system_load_policy.py:375:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:380:13: E265 block comment should start with '# '
+live-engine/mgmt/system_load_policy.py:393:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/system_load_policy.py:399:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/system_load_policy.py:405:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:405:80: E501 line too long (136 > 79 characters)
+live-engine/mgmt/system_load_policy.py:412:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:412:80: E501 line too long (128 > 79 characters)
+live-engine/mgmt/system_load_policy.py:415:38: E203 whitespace before ':'
+live-engine/mgmt/system_load_policy.py:419:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:419:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/system_load_policy.py:428:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:428:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/system_load_policy.py:435:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/system_load_policy.py:436:80: E501 line too long (139 > 79 characters)
+live-engine/mgmt/system_load_policy.py:438:80: E501 line too long (143 > 79 characters)
+live-engine/mgmt/system_load_policy.py:439:80: E501 line too long (167 > 79 characters)
+live-engine/mgmt/system_load_policy.py:441:80: E501 line too long (132 > 79 characters)
+live-engine/mgmt/system_load_policy.py:443:80: E501 line too long (137 > 79 characters)
+live-engine/mgmt/system_load_policy.py:444:80: E501 line too long (137 > 79 characters)
+live-engine/mgmt/system_load_policy.py:445:80: E501 line too long (131 > 79 characters)
+live-engine/mgmt/system_load_policy.py:446:80: E501 line too long (143 > 79 characters)
+live-engine/mgmt/system_load_policy.py:447:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/system_load_policy.py:448:80: E501 line too long (135 > 79 characters)
+live-engine/mgmt/system_load_policy.py:449:80: E501 line too long (132 > 79 characters)
+live-engine/mgmt/system_load_policy.py:450:80: E501 line too long (165 > 79 characters)
+live-engine/mgmt/system_load_policy.py:451:80: E501 line too long (162 > 79 characters)
+live-engine/mgmt/system_load_policy.py:453:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/system_load_policy.py:465:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:481:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/system_load_policy.py:482:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/system_load_policy.py:496:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/system_load_policy.py:500:80: E501 line too long (134 > 79 characters)
+live-engine/mgmt/system_load_policy.py:506:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:506:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:511:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:530:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/system_load_policy.py:532:1: W293 blank line contains whitespace
+live-engine/mgmt/system_load_policy.py:547:56: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:547:58: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:556:43: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/system_load_policy.py:562:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/system_load_policy.py:574:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/system_load_policy.py:578:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/system_load_policy.py:580:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:583:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/system_load_policy.py:597:13: F841 local variable '_' is assigned to but never used
+live-engine/mgmt/system_load_policy.py:599:80: E501 line too long (131 > 79 characters)
+live-engine/mgmt/system_load_policy.py:602:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/system_load_policy.py:607:47: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/system_load_policy.py:613:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:629:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:629:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/system_load_policy.py:635:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:635:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/system_load_policy.py:640:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:640:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/system_load_policy.py:646:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:646:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:648:13: E265 block comment should start with '# '
+live-engine/mgmt/system_load_policy.py:651:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:651:80: E501 line too long (140 > 79 characters)
+live-engine/mgmt/system_load_policy.py:670:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/system_load_policy.py:679:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:681:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/system_load_policy.py:688:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/system_load_policy.py:690:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/system_load_policy.py:692:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:692:80: E501 line too long (125 > 79 characters)
+live-engine/mgmt/system_load_policy.py:695:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/system_load_policy.py:699:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:699:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/system_load_policy.py:720:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:720:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:727:5: E303 too many blank lines (2)
+live-engine/mgmt/system_load_policy.py:747:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:750:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:753:5: E301 expected 1 blank line, found 0
+live-engine/mgmt/system_load_policy.py:761:1: W191 indentation contains tabs
+live-engine/mgmt/system_load_policy.py:761:1: E101 indentation contains mixed spaces and tabs
+live-engine/mgmt/system_load_policy.py:761:1: W293 blank line contains whitespace
+live-engine/mgmt/system_load_policy.py:775:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:786:54: E261 at least two spaces before inline comment
+live-engine/mgmt/system_load_policy.py:786:54: E262 inline comment should start with '# '
+live-engine/mgmt/system_load_policy.py:786:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:787:17: E265 block comment should start with '# '
+live-engine/mgmt/system_load_policy.py:788:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/system_load_policy.py:790:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/system_load_policy.py:796:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/system_load_policy.py:797:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:811:50: E261 at least two spaces before inline comment
+live-engine/mgmt/system_load_policy.py:811:50: E262 inline comment should start with '# '
+live-engine/mgmt/system_load_policy.py:811:80: E501 line too long (104 > 79 characters)
+live-engine/mgmt/system_load_policy.py:818:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:819:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:824:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:827:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/system_load_policy.py:845:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/system_load_policy.py:846:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:854:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/system_load_policy.py:855:80: E501 line too long (128 > 79 characters)
+live-engine/mgmt/system_load_policy.py:856:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/system_load_policy.py:858:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/system_load_policy.py:859:80: E501 line too long (130 > 79 characters)
+live-engine/mgmt/system_load_policy.py:862:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:863:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/system_load_policy.py:865:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/system_load_policy.py:867:80: E501 line too long (132 > 79 characters)
+live-engine/mgmt/system_load_policy.py:868:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/system_load_policy.py:869:80: E501 line too long (136 > 79 characters)
+live-engine/mgmt/system_load_policy.py:871:80: E501 line too long (154 > 79 characters)
+live-engine/mgmt/system_load_policy.py:871:100: E261 at least two spaces before inline comment
+live-engine/mgmt/system_load_policy.py:871:100: E262 inline comment should start with '# '
+live-engine/mgmt/system_load_policy.py:877:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/system_load_policy.py:878:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/system_load_policy.py:879:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/system_load_policy.py:881:80: E501 line too long (138 > 79 characters)
+live-engine/mgmt/system_load_policy.py:882:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/system_load_policy.py:883:80: E501 line too long (149 > 79 characters)
+live-engine/mgmt/system_load_policy.py:885:80: E501 line too long (112 > 79 characters)
+live-engine/mgmt/system_load_policy.py:888:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:889:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/system_load_policy.py:914:9: E265 block comment should start with '# '
+live-engine/mgmt/system_load_policy.py:915:51: W291 trailing whitespace
+live-engine/mgmt/system_load_policy.py:931:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:931:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/system_load_policy.py:939:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/system_load_policy.py:939:83: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:939:85: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:940:29: E261 at least two spaces before inline comment
+live-engine/mgmt/system_load_policy.py:941:34: E261 at least two spaces before inline comment
+live-engine/mgmt/system_load_policy.py:943:1: W293 blank line contains whitespace
+live-engine/mgmt/system_load_policy.py:946:13: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:946:80: E501 line too long (175 > 79 characters)
+live-engine/mgmt/system_load_policy.py:947:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:949:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/system_load_policy.py:950:49: E261 at least two spaces before inline comment
+live-engine/mgmt/system_load_policy.py:953:55: E261 at least two spaces before inline comment
+live-engine/mgmt/system_load_policy.py:953:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:957:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/system_load_policy.py:958:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/system_load_policy.py:962:80: E501 line too long (128 > 79 characters)
+live-engine/mgmt/system_load_policy.py:965:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/system_load_policy.py:970:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:971:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/system_load_policy.py:972:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/system_load_policy.py:973:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/system_load_policy.py:974:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/system_load_policy.py:975:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/system_load_policy.py:976:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/system_load_policy.py:977:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/system_load_policy.py:978:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/system_load_policy.py:979:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/system_load_policy.py:981:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:984:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/system_load_policy.py:986:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:988:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:989:21: E265 block comment should start with '# '
+live-engine/mgmt/system_load_policy.py:990:80: E501 line too long (127 > 79 characters)
+live-engine/mgmt/system_load_policy.py:990:80: E272 multiple spaces before keyword
+live-engine/mgmt/system_load_policy.py:990:126: E203 whitespace before ':'
+live-engine/mgmt/system_load_policy.py:991:80: E501 line too long (132 > 79 characters)
+live-engine/mgmt/system_load_policy.py:992:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/system_load_policy.py:994:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/system_load_policy.py:996:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1016:28: E203 whitespace before ':'
+live-engine/mgmt/system_load_policy.py:1038:13: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:1038:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1047:80: E501 line too long (116 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1047:93: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:1047:95: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:1047:110: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:1047:112: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:1058:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1061:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1072:80: E501 line too long (114 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1085:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1087:50: E261 at least two spaces before inline comment
+live-engine/mgmt/system_load_policy.py:1099:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1100:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:1100:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1106:80: E501 line too long (126 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1107:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1108:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1111:43: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+live-engine/mgmt/system_load_policy.py:1113:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1116:80: E501 line too long (116 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1119:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1131:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1136:17: E117 over-indented
+live-engine/mgmt/system_load_policy.py:1137:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:1137:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1157:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1172:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1180:50: E261 at least two spaces before inline comment
+live-engine/mgmt/system_load_policy.py:1203:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1205:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1210:17: F841 local variable 'url' is assigned to but never used
+live-engine/mgmt/system_load_policy.py:1212:33: E231 missing whitespace after ':'
+live-engine/mgmt/system_load_policy.py:1212:56: E231 missing whitespace after ':'
+live-engine/mgmt/system_load_policy.py:1213:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:1213:28: E231 missing whitespace after ':'
+live-engine/mgmt/system_load_policy.py:1213:52: E231 missing whitespace after ':'
+live-engine/mgmt/system_load_policy.py:1214:16: E713 test for membership should be 'not in'
+live-engine/mgmt/system_load_policy.py:1231:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1232:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1233:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1234:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1269:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1270:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1273:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1274:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1287:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1290:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1296:80: E501 line too long (104 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1300:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1306:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1343:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1350:78: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:1350:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1350:80: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/system_load_policy.py:1356:28: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/system_load_policy.py:1360:48: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/system_load_policy.py:1363:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1365:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1380:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1387:80: E501 line too long (122 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1388:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1389:80: E501 line too long (156 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1429:62: W291 trailing whitespace
+live-engine/mgmt/system_load_policy.py:1432:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1436:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1456:80: E501 line too long (104 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1460:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1461:80: E501 line too long (114 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1463:80: E501 line too long (112 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1465:80: E501 line too long (168 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1466:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1470:9: F841 local variable 'preset' is assigned to but never used
+live-engine/mgmt/system_load_policy.py:1473:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1481:80: E501 line too long (177 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1484:80: E501 line too long (115 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1487:40: F405 'HitConditionCheck' may be undefined, or defined from star imports: config_manager, hit_condition_check
+live-engine/mgmt/system_load_policy.py:1488:36: F405 'parse_context_type' may be undefined, or defined from star imports: config_manager, hit_condition_check
+live-engine/mgmt/system_load_policy.py:1493:80: E501 line too long (133 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1494:80: E501 line too long (115 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1498:80: E501 line too long (149 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1502:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1504:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1507:80: E501 line too long (109 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1517:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1530:17: E125 continuation line with same indent as next logical line
+live-engine/mgmt/system_load_policy.py:1530:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1537:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1538:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1540:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1541:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1543:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1547:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1552:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1556:50: E221 multiple spaces before operator
+live-engine/mgmt/system_load_policy.py:1556:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1559:80: E501 line too long (134 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1565:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1569:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1571:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1573:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1576:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1582:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1598:21: E125 continuation line with same indent as next logical line
+live-engine/mgmt/system_load_policy.py:1598:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1604:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1616:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1635:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1636:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1647:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1650:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1651:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1663:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1667:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:1667:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1674:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/system_load_policy.py:1674:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1678:80: E501 line too long (130 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1681:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1683:54: E261 at least two spaces before inline comment
+live-engine/mgmt/system_load_policy.py:1683:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1687:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1691:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1693:21: F841 local variable 'prefix_name' is assigned to but never used
+live-engine/mgmt/system_load_policy.py:1700:80: E501 line too long (115 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1701:58: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+live-engine/mgmt/system_load_policy.py:1702:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1703:60: E712 comparison to False should be 'if cond is False:' or 'if not cond:'
+live-engine/mgmt/system_load_policy.py:1704:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1705:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1707:80: E501 line too long (127 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1708:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1709:51: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+live-engine/mgmt/system_load_policy.py:1711:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1715:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1716:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1718:80: E501 line too long (137 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1723:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1731:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1733:80: E501 line too long (171 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1734:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1742:13: E303 too many blank lines (2)
+live-engine/mgmt/system_load_policy.py:1750:80: E501 line too long (120 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1754:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1756:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1760:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1774:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/system_load_policy.py:1782:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1785:1: W293 blank line contains whitespace
+live-engine/mgmt/system_load_policy.py:1789:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/system_load_policy.py:1824:5: E303 too many blank lines (3)
+live-engine/mgmt/system_load_policy.py:1824:80: E501 line too long (109 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1826:80: E501 line too long (115 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1828:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1829:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1831:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1840:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1842:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1852:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1855:5: E303 too many blank lines (2)
+live-engine/mgmt/system_load_policy.py:1867:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1875:80: E501 line too long (200 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1879:80: E501 line too long (115 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1881:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1882:50: E211 whitespace before '('
+live-engine/mgmt/system_load_policy.py:1900:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1904:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1911:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1920:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1924:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1926:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1931:1: W293 blank line contains whitespace
+live-engine/mgmt/system_load_policy.py:1945:1: W293 blank line contains whitespace
+live-engine/mgmt/system_load_policy.py:1947:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1950:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1953:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1955:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1956:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1958:80: E501 line too long (138 > 79 characters)
+live-engine/mgmt/system_load_policy.py:1959:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:3:1: F401 'glob' imported but unused
+live-engine/mgmt/test/check_consistency.py:4:1: F401 'tempfile' imported but unused
+live-engine/mgmt/test/check_consistency.py:5:1: F401 'cherrypy' imported but unused
+live-engine/mgmt/test/check_consistency.py:6:1: F401 'threading' imported but unused
+live-engine/mgmt/test/check_consistency.py:9:1: F401 'copy' imported but unused
+live-engine/mgmt/test/check_consistency.py:11:1: F401 'concurrent.futures.ThreadPoolExecutor' imported but unused
+live-engine/mgmt/test/check_consistency.py:12:1: F401 'random' imported but unused
+live-engine/mgmt/test/check_consistency.py:13:1: F401 'inspect' imported but unused
+live-engine/mgmt/test/check_consistency.py:14:1: F401 'csv' imported but unused
+live-engine/mgmt/test/check_consistency.py:23:1: E402 module level import not at top of file
+live-engine/mgmt/test/check_consistency.py:27:45: W291 trailing whitespace
+live-engine/mgmt/test/check_consistency.py:64:80: E501 line too long (153 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:65:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:69:80: E501 line too long (147 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:70:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:86:80: E501 line too long (143 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:87:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:97:1: W293 blank line contains whitespace
+live-engine/mgmt/test/check_consistency.py:100:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:101:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:114:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/test/check_consistency.py:115:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:116:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:117:18: W291 trailing whitespace
+live-engine/mgmt/test/check_consistency.py:126:80: E501 line too long (132 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:127:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:128:18: W291 trailing whitespace
+live-engine/mgmt/test/check_consistency.py:134:80: E501 line too long (132 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:135:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:136:18: W291 trailing whitespace
+live-engine/mgmt/test/check_consistency.py:147:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:153:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:180:10: E225 missing whitespace around operator
+live-engine/mgmt/test/check_consistency.py:191:68: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/test/check_consistency.py:191:70: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/test/check_consistency.py:211:80: E501 line too long (712 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:215:80: E501 line too long (213 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:216:80: E501 line too long (271 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:220:80: E501 line too long (140 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:224:80: E501 line too long (140 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:227:80: E501 line too long (213 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:228:80: E501 line too long (271 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:231:80: E501 line too long (213 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:232:80: E501 line too long (271 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:235:80: E501 line too long (213 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:236:80: E501 line too long (271 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:239:80: E501 line too long (213 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:240:80: E501 line too long (271 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:255:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:259:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:261:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:263:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:279:13: E265 block comment should start with '# '
+live-engine/mgmt/test/check_consistency.py:286:80: E501 line too long (121 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:288:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:297:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:300:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:307:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:317:29: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/test/check_consistency.py:317:31: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/test/check_consistency.py:332:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:355:5: E265 block comment should start with '# '
+live-engine/mgmt/test/check_consistency.py:356:80: E501 line too long (219 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:357:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:379:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/test/check_consistency.py:387:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/test/check_hotupgrade.py:1:1: F401 'sys' imported but unused
+live-engine/mgmt/test/check_hotupgrade.py:2:1: F401 'argparse' imported but unused
+live-engine/mgmt/test/check_hotupgrade.py:3:1: F401 'json' imported but unused
+live-engine/mgmt/test/check_hotupgrade.py:9:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/test/check_hotupgrade.py:12:27: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:13:21: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:14:25: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:15:23: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:16:20: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:17:20: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:18:27: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:19:20: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:20:24: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:21:25: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:22:30: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:23:25: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:24:42: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:25:33: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:26:20: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:27:26: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:28:25: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:29:27: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:30:42: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:37:25: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:39:22: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:40:32: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:42:21: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:43:38: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:44:27: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:47:25: E231 missing whitespace after ':'
+live-engine/mgmt/test/check_hotupgrade.py:51:80: E501 line too long (142 > 79 characters)
+live-engine/mgmt/test/check_hotupgrade.py:52:80: E501 line too long (143 > 79 characters)
+live-engine/mgmt/test/check_hotupgrade.py:53:7: E122 continuation line missing indentation or outdented
+live-engine/mgmt/test/check_hotupgrade.py:57:35: E201 whitespace after '{'
+live-engine/mgmt/test/check_hotupgrade.py:57:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/test/check_hotupgrade.py:63:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/test/check_hotupgrade.py:108:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/test/check_hotupgrade.py:115:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/test/check_hotupgrade.py:120:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/test/check_hotupgrade.py:125:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/test/check_hotupgrade.py:128:5: E265 block comment should start with '# '
+live-engine/mgmt/test/check_hotupgrade.py:135:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/test/check_hotupgrade.py:192:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/test/check_hotupgrade.py:192:29: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/test/check_hotupgrade.py:192:31: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/test/check_hotupgrade.py:196:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/test/check_hotupgrade.py:210:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/test/check_stable.py:3:1: F401 'glob' imported but unused
+live-engine/mgmt/test/check_stable.py:4:1: F401 'tempfile' imported but unused
+live-engine/mgmt/test/check_stable.py:5:1: F401 'cherrypy' imported but unused
+live-engine/mgmt/test/check_stable.py:6:1: F401 'threading' imported but unused
+live-engine/mgmt/test/check_stable.py:10:1: F401 'copy' imported but unused
+live-engine/mgmt/test/check_stable.py:12:1: F401 'concurrent.futures.FIRST_COMPLETED' imported but unused
+live-engine/mgmt/test/check_stable.py:12:1: F401 'concurrent.futures.as_completed' imported but unused
+live-engine/mgmt/test/check_stable.py:12:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/test/check_stable.py:13:1: F401 'random' imported but unused
+live-engine/mgmt/test/check_stable.py:14:1: F401 'inspect' imported but unused
+live-engine/mgmt/test/check_stable.py:15:1: F401 'csv' imported but unused
+live-engine/mgmt/test/check_stable.py:16:1: F401 're' imported but unused
+live-engine/mgmt/test/check_stable.py:24:1: E402 module level import not at top of file
+live-engine/mgmt/test/check_stable.py:28:45: W291 trailing whitespace
+live-engine/mgmt/test/check_stable.py:42:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/test/check_stable.py:43:50: E127 continuation line over-indented for visual indent
+live-engine/mgmt/test/check_stable.py:51:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/test/check_stable.py:81:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/test/check_stable.py:102:10: E225 missing whitespace around operator
+live-engine/mgmt/test/check_stable.py:108:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/test/check_stable.py:154:80: E501 line too long (713 > 79 characters)
+live-engine/mgmt/test/check_stable.py:158:80: E501 line too long (213 > 79 characters)
+live-engine/mgmt/test/check_stable.py:159:80: E501 line too long (271 > 79 characters)
+live-engine/mgmt/test/check_stable.py:163:80: E501 line too long (140 > 79 characters)
+live-engine/mgmt/test/check_stable.py:167:80: E501 line too long (140 > 79 characters)
+live-engine/mgmt/test/check_stable.py:170:80: E501 line too long (213 > 79 characters)
+live-engine/mgmt/test/check_stable.py:171:80: E501 line too long (271 > 79 characters)
+live-engine/mgmt/test/check_stable.py:174:80: E501 line too long (213 > 79 characters)
+live-engine/mgmt/test/check_stable.py:175:80: E501 line too long (271 > 79 characters)
+live-engine/mgmt/test/check_stable.py:178:80: E501 line too long (213 > 79 characters)
+live-engine/mgmt/test/check_stable.py:179:80: E501 line too long (271 > 79 characters)
+live-engine/mgmt/test/check_stable.py:182:80: E501 line too long (213 > 79 characters)
+live-engine/mgmt/test/check_stable.py:183:80: E501 line too long (271 > 79 characters)
+live-engine/mgmt/test/check_stable.py:200:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/test/check_stable.py:205:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/test/check_stable.py:221:13: E265 block comment should start with '# '
+live-engine/mgmt/test/check_stable.py:222:13: E265 block comment should start with '# '
+live-engine/mgmt/test/check_stable.py:223:13: E265 block comment should start with '# '
+live-engine/mgmt/test/check_stable.py:226:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/test/check_stable.py:235:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/test/check_stable.py:238:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/test/check_stable.py:256:29: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/test/check_stable.py:256:31: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/test/check_stable.py:304:5: E265 block comment should start with '# '
+live-engine/mgmt/test/check_stable.py:305:80: E501 line too long (219 > 79 characters)
+live-engine/mgmt/test/check_stable.py:307:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/test/check_stable.py:314:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/test/check_stable.py:320:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/test/detect.py:4:1: E402 module level import not at top of file
+live-engine/mgmt/test/detect.py:5:1: E402 module level import not at top of file
+live-engine/mgmt/test/detect.py:7:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/test/detect.py:11:1: W293 blank line contains whitespace
+live-engine/mgmt/test/detect.py:17:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/test/detect.py:17:80: E501 line too long (132 > 79 characters)
+live-engine/mgmt/test/network_update.py:4:1: E402 module level import not at top of file
+live-engine/mgmt/test/network_update.py:5:1: E402 module level import not at top of file
+live-engine/mgmt/test/network_update.py:7:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/test/network_update.py:18:1: E265 block comment should start with '# '
+live-engine/mgmt/test/network_update.py:18:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/test/probe_program.py:4:1: E402 module level import not at top of file
+live-engine/mgmt/test/probe_program.py:5:1: F401 'json' imported but unused
+live-engine/mgmt/test/probe_program.py:5:1: E402 module level import not at top of file
+live-engine/mgmt/test/probe_program.py:11:80: E501 line too long (104 > 79 characters)
+live-engine/mgmt/test/probe_program.py:16:80: E501 line too long (117 > 79 characters)
+live-engine/mgmt/test/reboot_device.py:4:1: E402 module level import not at top of file
+live-engine/mgmt/test/reboot_device.py:5:1: F401 'json' imported but unused
+live-engine/mgmt/test/reboot_device.py:5:1: E402 module level import not at top of file
+live-engine/mgmt/test/reboot_device.py:7:80: E501 line too long (104 > 79 characters)
+live-engine/mgmt/test/regression_test.py:7:1: F401 'time' imported but unused
+live-engine/mgmt/test/regression_test.py:8:1: F401 'psutil' imported but unused
+live-engine/mgmt/test/regression_test.py:9:1: F401 'copy' imported but unused
+live-engine/mgmt/test/regression_test.py:14:1: E402 module level import not at top of file
+live-engine/mgmt/test/regression_test.py:15:1: E402 module level import not at top of file
+live-engine/mgmt/test/regression_test.py:17:1: E402 module level import not at top of file
+live-engine/mgmt/test/regression_test.py:18:1: E402 module level import not at top of file
+live-engine/mgmt/test/regression_test.py:19:1: E402 module level import not at top of file
+live-engine/mgmt/test/regression_test.py:20:1: E402 module level import not at top of file
+live-engine/mgmt/test/regression_test.py:22:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/test/regression_test.py:23:3: E111 indentation is not a multiple of 4
+live-engine/mgmt/test/regression_test.py:24:45: E116 unexpected indentation (comment)
+live-engine/mgmt/test/regression_test.py:25:3: E111 indentation is not a multiple of 4
+live-engine/mgmt/test/regression_test.py:26:3: E111 indentation is not a multiple of 4
+live-engine/mgmt/test/regression_test.py:27:3: E114 indentation is not a multiple of 4 (comment)
+live-engine/mgmt/test/regression_test.py:27:3: E265 block comment should start with '# '
+live-engine/mgmt/test/regression_test.py:28:3: E114 indentation is not a multiple of 4 (comment)
+live-engine/mgmt/test/regression_test.py:28:3: E265 block comment should start with '# '
+live-engine/mgmt/test/regression_test.py:29:3: E111 indentation is not a multiple of 4
+live-engine/mgmt/test/regression_test.py:31:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/test/regression_test.py:44:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/test/regression_test.py:45:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/test/regression_test.py:86:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/test/regression_test.py:96:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/test/regression_test.py:136:5: E303 too many blank lines (2)
+live-engine/mgmt/test/regression_test.py:145:17: E265 block comment should start with '# '
+live-engine/mgmt/test/regression_test.py:145:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/test/regression_test.py:153:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/test/regression_test.py:155:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/test/regression_test.py:171:80: E501 line too long (114 > 79 characters)
+live-engine/mgmt/test/regression_test.py:180:70: E225 missing whitespace around operator
+live-engine/mgmt/test/regression_test.py:180:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/test/regression_test.py:181:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/test/regression_test.py:189:5: E265 block comment should start with '# '
+live-engine/mgmt/test/regression_test.py:201:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/test/regression_test.py:204:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/test/regression_test.py:214:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/test/regression_test.py:215:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/test/regression_test.py:221:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/test/regression_test.py:224:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/test/regression_test.py:239:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/test/regression_test.py:240:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/test/regression_test.py:241:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/test/regression_test.py:242:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/test/regression_test.py:260:5: E265 block comment should start with '# '
+live-engine/mgmt/test/regression_test.py:262:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/test/regression_test.py:265:5: E265 block comment should start with '# '
+live-engine/mgmt/test/regression_test.py:267:5: E265 block comment should start with '# '
+live-engine/mgmt/test/regression_test.py:267:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/test/regression_test.py:267:98: W291 trailing whitespace
+live-engine/mgmt/test/regression_test.py:269:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/test/regression_test.py:270:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/test/regression_test.py:277:9: E265 block comment should start with '# '
+live-engine/mgmt/test/setup_device_network.py:4:1: E402 module level import not at top of file
+live-engine/mgmt/test/setup_device_network.py:5:1: F401 'json' imported but unused
+live-engine/mgmt/test/setup_device_network.py:5:1: E402 module level import not at top of file
+live-engine/mgmt/test/setup_device_network.py:16:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/test/smoke_test.py:3:1: F401 'glob' imported but unused
+live-engine/mgmt/test/smoke_test.py:4:1: F401 'tempfile' imported but unused
+live-engine/mgmt/test/smoke_test.py:5:1: F401 'threading' imported but unused
+live-engine/mgmt/test/smoke_test.py:7:1: F401 'copy' imported but unused
+live-engine/mgmt/test/smoke_test.py:9:1: F401 'argparse' imported but unused
+live-engine/mgmt/test/smoke_test.py:10:1: F401 'argparse.RawTextHelpFormatter' imported but unused
+live-engine/mgmt/test/smoke_test.py:14:1: F403 'from config_manager import *' used; unable to detect undefined names
+live-engine/mgmt/test/smoke_test.py:14:1: E402 module level import not at top of file
+live-engine/mgmt/test/smoke_test.py:15:1: F401 'kconf.client.KConf' imported but unused
+live-engine/mgmt/test/smoke_test.py:15:1: E402 module level import not at top of file
+live-engine/mgmt/test/smoke_test.py:16:1: F401 'kconf.exception.KConfError' imported but unused
+live-engine/mgmt/test/smoke_test.py:16:1: E402 module level import not at top of file
+live-engine/mgmt/test/smoke_test.py:17:1: E402 module level import not at top of file
+live-engine/mgmt/test/smoke_test.py:21:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/test/smoke_test.py:25:1: W293 blank line contains whitespace
+live-engine/mgmt/test/smoke_test.py:37:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/test/smoke_test.py:41:1: W293 blank line contains whitespace
+live-engine/mgmt/test/smoke_test.py:55:16: F405 'getConfigerManager' may be undefined, or defined from star imports: config_manager
+live-engine/mgmt/test/smoke_test.py:56:5: E265 block comment should start with '# '
+live-engine/mgmt/test/smoke_test.py:56:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/test/smoke_test.py:57:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/test/smoke_test.py:57:98: E231 missing whitespace after ','
+live-engine/mgmt/test/smoke_test.py:65:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/test/smoke_test.py:67:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/test/smoke_test.py:68:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/test/smoke_test.py:72:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/test/smoke_test.py:75:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/test/smoke_test.py:76:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/test/smoke_test.py:77:26: W291 trailing whitespace
+live-engine/mgmt/test/smoke_test.py:95:1: W293 blank line contains whitespace
+live-engine/mgmt/test/update_golden_data.py:3:1: F401 'glob' imported but unused
+live-engine/mgmt/test/update_golden_data.py:4:1: F401 'tempfile' imported but unused
+live-engine/mgmt/test/update_golden_data.py:5:1: F401 'cherrypy' imported but unused
+live-engine/mgmt/test/update_golden_data.py:6:1: F401 'threading' imported but unused
+live-engine/mgmt/test/update_golden_data.py:8:1: F401 'psutil' imported but unused
+live-engine/mgmt/test/update_golden_data.py:9:1: F401 'copy' imported but unused
+live-engine/mgmt/test/update_golden_data.py:11:1: F401 'concurrent.futures.ThreadPoolExecutor' imported but unused
+live-engine/mgmt/test/update_golden_data.py:12:1: F401 'random' imported but unused
+live-engine/mgmt/test/update_golden_data.py:13:1: F401 'inspect' imported but unused
+live-engine/mgmt/test/update_golden_data.py:14:1: F401 'csv' imported but unused
+live-engine/mgmt/test/update_golden_data.py:15:1: F401 're' imported but unused
+live-engine/mgmt/test/update_golden_data.py:17:46: E231 missing whitespace after ','
+live-engine/mgmt/test/update_golden_data.py:24:1: E402 module level import not at top of file
+live-engine/mgmt/test/update_golden_data.py:26:47: W291 trailing whitespace
+live-engine/mgmt/test/update_golden_data.py:32:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:69:80: E501 line too long (183 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:70:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:74:80: E501 line too long (183 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:75:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:101:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:102:80: E501 line too long (124 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:108:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:111:80: E501 line too long (204 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:114:80: E501 line too long (278 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:123:80: E501 line too long (153 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:124:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:128:80: E501 line too long (147 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:129:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:134:80: E501 line too long (116 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:135:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:136:18: W291 trailing whitespace
+live-engine/mgmt/test/update_golden_data.py:143:80: E501 line too long (154 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:143:127: E211 whitespace before '('
+live-engine/mgmt/test/update_golden_data.py:144:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:151:80: E501 line too long (154 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:151:127: E211 whitespace before '('
+live-engine/mgmt/test/update_golden_data.py:152:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:164:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:165:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/test/update_golden_data.py:175:80: E501 line too long (112 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:179:80: E501 line too long (125 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:182:80: E501 line too long (112 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:186:80: E501 line too long (125 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:194:1: W293 blank line contains whitespace
+live-engine/mgmt/test/update_golden_data.py:197:10: E225 missing whitespace around operator
+live-engine/mgmt/test/update_golden_data.py:208:29: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/test/update_golden_data.py:208:31: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/test/update_golden_data.py:241:5: E265 block comment should start with '# '
+live-engine/mgmt/test/update_golden_data.py:242:80: E501 line too long (219 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:243:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/test/update_golden_data.py:285:1: W391 blank line at end of file
+live-engine/mgmt/tsc_job.py:11:1: F401 'string' imported but unused
+live-engine/mgmt/tsc_job.py:12:1: F401 'datetime' imported but unused
+live-engine/mgmt/tsc_job.py:20:1: F403 'from config_manager import *' used; unable to detect undefined names
+live-engine/mgmt/tsc_job.py:34:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/tsc_job.py:92:33: F405 'getConfigerManager' may be undefined, or defined from star imports: config_manager
+live-engine/mgmt/tsc_job.py:95:80: E501 line too long (131 > 79 characters)
+live-engine/mgmt/tsc_job.py:98:42: E221 multiple spaces before operator
+live-engine/mgmt/tsc_job.py:98:80: E501 line too long (132 > 79 characters)
+live-engine/mgmt/tsc_job.py:99:80: E501 line too long (149 > 79 characters)
+live-engine/mgmt/tsc_job.py:102:5: E303 too many blank lines (2)
+live-engine/mgmt/tsc_job.py:109:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/tsc_job.py:125:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:131:34: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/tsc_job.py:136:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:137:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/tsc_job.py:141:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:150:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/tsc_job.py:152:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/tsc_job.py:156:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/tsc_job.py:166:80: E501 line too long (125 > 79 characters)
+live-engine/mgmt/tsc_job.py:167:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/tsc_job.py:168:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/tsc_job.py:176:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/tsc_job.py:177:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/tsc_job.py:178:12: E111 indentation is not a multiple of 4
+live-engine/mgmt/tsc_job.py:180:17: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:181:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/tsc_job.py:187:28: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/tsc_job.py:189:23: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/tsc_job.py:194:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/tsc_job.py:197:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/tsc_job.py:203:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:203:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/tsc_job.py:203:93: E703 statement ends with a semicolon
+live-engine/mgmt/tsc_job.py:209:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/tsc_job.py:214:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/tsc_job.py:217:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:217:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/tsc_job.py:222:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/tsc_job.py:223:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:223:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/tsc_job.py:224:80: E501 line too long (137 > 79 characters)
+live-engine/mgmt/tsc_job.py:231:21: E222 multiple spaces after operator
+live-engine/mgmt/tsc_job.py:235:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:235:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/tsc_job.py:243:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/tsc_job.py:248:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/tsc_job.py:251:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/tsc_job.py:260:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:260:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/tsc_job.py:309:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/tsc_job.py:332:33: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:332:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/tsc_job.py:333:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/tsc_job.py:338:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:338:80: E501 line too long (112 > 79 characters)
+live-engine/mgmt/tsc_job.py:349:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:349:80: E501 line too long (136 > 79 characters)
+live-engine/mgmt/tsc_job.py:356:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:356:80: E501 line too long (131 > 79 characters)
+live-engine/mgmt/tsc_job.py:363:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:363:80: E501 line too long (134 > 79 characters)
+live-engine/mgmt/tsc_job.py:369:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:369:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/tsc_job.py:376:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:376:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/tsc_job.py:377:80: E501 line too long (104 > 79 characters)
+live-engine/mgmt/tsc_job.py:389:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:395:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:395:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/tsc_job.py:395:99: E703 statement ends with a semicolon
+live-engine/mgmt/tsc_job.py:396:80: E501 line too long (171 > 79 characters)
+live-engine/mgmt/tsc_job.py:398:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/tsc_job.py:409:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/tsc_job.py:410:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/tsc_job.py:411:21: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/tsc_job.py:418:9: F841 local variable 'audio_codec_name' is assigned to but never used
+live-engine/mgmt/tsc_job.py:421:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/tsc_job.py:425:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:425:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/tsc_job.py:426:80: E501 line too long (93 > 79 characters)
+live-engine/mgmt/tsc_job.py:431:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/tsc_job.py:432:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/tsc_job.py:433:21: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/tsc_job.py:437:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/tsc_job.py:439:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/tsc_job.py:441:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/tsc_job.py:443:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:443:80: E501 line too long (119 > 79 characters)
+live-engine/mgmt/tsc_job.py:446:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/tsc_job.py:448:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/tsc_job.py:450:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:450:80: E501 line too long (127 > 79 characters)
+live-engine/mgmt/tsc_job.py:456:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/tsc_job.py:457:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/tsc_job.py:465:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/tsc_job.py:466:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/tsc_job.py:470:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:470:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/tsc_job.py:473:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/tsc_job.py:477:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:477:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/tsc_job.py:480:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/tsc_job.py:481:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/tsc_job.py:483:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/tsc_job.py:484:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/tsc_job.py:509:80: E501 line too long (174 > 79 characters)
+live-engine/mgmt/tsc_job.py:514:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/tsc_job.py:515:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/tsc_job.py:519:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/tsc_job.py:530:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/tsc_job.py:534:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/tsc_job.py:559:48: W291 trailing whitespace
+live-engine/mgmt/tsc_job.py:565:49: E261 at least two spaces before inline comment
+live-engine/mgmt/tsc_job.py:574:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/tsc_job.py:576:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/tsc_job.py:577:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:577:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/tsc_job.py:579:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/tsc_job.py:586:80: E501 line too long (155 > 79 characters)
+live-engine/mgmt/tsc_job.py:591:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:591:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/tsc_job.py:597:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:604:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:604:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/tsc_job.py:609:25: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/tsc_job.py:609:52: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/tsc_job.py:611:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:611:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/tsc_job.py:618:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:619:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/tsc_job.py:624:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/tsc_job.py:665:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/tsc_job.py:666:28: E122 continuation line missing indentation or outdented
+live-engine/mgmt/tsc_job.py:666:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/tsc_job.py:668:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/tsc_job.py:671:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/tsc_job.py:672:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:672:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/tsc_job.py:678:46: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+live-engine/mgmt/tsc_job.py:680:80: E501 line too long (108 > 79 characters)
+live-engine/mgmt/tsc_job.py:682:13: E722 do not use bare 'except'
+live-engine/mgmt/tsc_job.py:684:25: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:699:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:705:25: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/tsc_job.py:708:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:708:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/tsc_job.py:711:38: E261 at least two spaces before inline comment
+live-engine/mgmt/tsc_job.py:712:44: E261 at least two spaces before inline comment
+live-engine/mgmt/tsc_job.py:712:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/tsc_job.py:715:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:715:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/tsc_job.py:719:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:719:80: E501 line too long (90 > 79 characters)
+live-engine/mgmt/tsc_job.py:722:29: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:725:25: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/tsc_job.py:727:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/tsc_job.py:730:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:730:80: E501 line too long (119 > 79 characters)
+live-engine/mgmt/tsc_job.py:733:21: E128 continuation line under-indented for visual indent
+live-engine/mgmt/tsc_job.py:733:80: E501 line too long (120 > 79 characters)
+live-engine/mgmt/tsc_job.py:737:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/tsc_job.py:767:17: E711 comparison to None should be 'if cond is None:'
+live-engine/mgmt/utils.py:27:1: F811 redefinition of unused 'hashlib' from line 17
+live-engine/mgmt/utils.py:32:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/utils.py:36:1: E265 block comment should start with '# '
+live-engine/mgmt/utils.py:42:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:45:5: E301 expected 1 blank line, found 0
+live-engine/mgmt/utils.py:46:9: F633 use of >> is invalid with print function
+live-engine/mgmt/utils.py:48:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:55:9: E265 block comment should start with '# '
+live-engine/mgmt/utils.py:63:11: E275 missing whitespace after keyword
+live-engine/mgmt/utils.py:64:80: E501 line too long (129 > 79 characters)
+live-engine/mgmt/utils.py:79:43: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/utils.py:79:45: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/utils.py:91:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/utils.py:102:1: E302 expected 2 blank lines, found 0
+live-engine/mgmt/utils.py:104:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/utils.py:105:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/utils.py:108:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/utils.py:109:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/utils.py:111:1: E305 expected 2 blank lines after class or function definition, found 1
+live-engine/mgmt/utils.py:114:1: E302 expected 2 blank lines, found 0
+live-engine/mgmt/utils.py:114:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/utils.py:115:24: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:124:35: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:126:28: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:126:80: E501 line too long (127 > 79 characters)
+live-engine/mgmt/utils.py:128:28: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:130:34: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:146:1: E302 expected 2 blank lines, found 0
+live-engine/mgmt/utils.py:146:56: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/utils.py:146:58: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/utils.py:146:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/utils.py:150:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/utils.py:154:80: E501 line too long (92 > 79 characters)
+live-engine/mgmt/utils.py:156:9: F841 local variable 'starttime' is assigned to but never used
+live-engine/mgmt/utils.py:165:80: E501 line too long (147 > 79 characters)
+live-engine/mgmt/utils.py:165:93: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:170:68: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:170:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/utils.py:174:71: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:174:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/utils.py:180:1: W293 blank line contains whitespace
+live-engine/mgmt/utils.py:194:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:226:18: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/utils.py:233:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/utils.py:235:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/utils.py:237:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/utils.py:239:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/utils.py:242:80: E501 line too long (124 > 79 characters)
+live-engine/mgmt/utils.py:242:88: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:246:80: E501 line too long (118 > 79 characters)
+live-engine/mgmt/utils.py:246:82: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:251:80: E501 line too long (139 > 79 characters)
+live-engine/mgmt/utils.py:251:88: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:256:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:258:7: E221 multiple spaces before operator
+live-engine/mgmt/utils.py:259:27: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:264:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/utils.py:265:46: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:270:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:273:72: E231 missing whitespace after ':'
+live-engine/mgmt/utils.py:273:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/utils.py:283:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:289:80: E501 line too long (94 > 79 characters)
+live-engine/mgmt/utils.py:291:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:300:80: E501 line too long (84 > 79 characters)
+live-engine/mgmt/utils.py:307:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:322:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:332:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:337:23: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/utils.py:346:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:351:23: E711 comparison to None should be 'if cond is not None:'
+live-engine/mgmt/utils.py:360:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:367:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:375:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:379:80: E501 line too long (88 > 79 characters)
+live-engine/mgmt/utils.py:384:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:391:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:396:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:445:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:451:24: W291 trailing whitespace
+live-engine/mgmt/utils.py:453:24: W291 trailing whitespace
+live-engine/mgmt/utils.py:455:5: F841 local variable 'ex' is assigned to but never used
+live-engine/mgmt/utils.py:456:9: F821 undefined name 'utils'
+live-engine/mgmt/utils.py:456:80: E501 line too long (144 > 79 characters)
+live-engine/mgmt/utils.py:456:121: F821 undefined name 'traceback'
+live-engine/mgmt/utils.py:456:145: W291 trailing whitespace
+live-engine/mgmt/utils.py:457:1: W293 blank line contains whitespace
+live-engine/mgmt/utils.py:460:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:470:68: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/utils.py:470:70: E251 unexpected spaces around keyword / parameter equals
+live-engine/mgmt/utils.py:483:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:498:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:509:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:513:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:514:63: W291 trailing whitespace
+live-engine/mgmt/utils.py:528:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/utils.py:531:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:545:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:559:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:573:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:585:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:591:49: W291 trailing whitespace
+live-engine/mgmt/utils.py:594:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:596:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/utils.py:601:66: E228 missing whitespace around modulo operator
+live-engine/mgmt/utils.py:601:80: E501 line too long (130 > 79 characters)
+live-engine/mgmt/utils.py:610:80: E501 line too long (132 > 79 characters)
+live-engine/mgmt/utils.py:613:80: E501 line too long (129 > 79 characters)
+live-engine/mgmt/utils.py:616:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/utils.py:631:5: E303 too many blank lines (2)
+live-engine/mgmt/utils.py:642:80: E501 line too long (123 > 79 characters)
+live-engine/mgmt/utils.py:663:80: E501 line too long (140 > 79 characters)
+live-engine/mgmt/utils.py:666:80: E501 line too long (85 > 79 characters)
+live-engine/mgmt/utils.py:687:21: F821 undefined name 'gen_callback_sign'
+live-engine/mgmt/utils.py:687:80: E501 line too long (103 > 79 characters)
+live-engine/mgmt/utils.py:690:24: E231 missing whitespace after ':'
+live-engine/mgmt/utils.py:691:23: E231 missing whitespace after ':'
+live-engine/mgmt/utils.py:692:29: E231 missing whitespace after ':'
+live-engine/mgmt/utils.py:694:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/video_engine_app.py:6:1: F821 undefined name 'reload'
+live-engine/mgmt/video_engine_app.py:12:1: E402 module level import not at top of file
+live-engine/mgmt/video_engine_app.py:15:1: E722 do not use bare 'except'
+live-engine/mgmt/video_engine_app.py:16:5: F401 'simplejson as json' imported but unused
+live-engine/mgmt/video_engine_app.py:18:1: E402 module level import not at top of file
+live-engine/mgmt/video_engine_app.py:19:1: F403 'from kwai_api import *' used; unable to detect undefined names
+live-engine/mgmt/video_engine_app.py:19:1: F401 'kwai_api.*' imported but unused
+live-engine/mgmt/video_engine_app.py:19:1: E402 module level import not at top of file
+live-engine/mgmt/video_engine_app.py:20:1: E402 module level import not at top of file
+live-engine/mgmt/video_engine_app.py:21:1: E402 module level import not at top of file
+live-engine/mgmt/video_engine_app.py:23:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/video_engine_app.py:32:80: E501 line too long (112 > 79 characters)
+live-engine/mgmt/video_engine_manager.py:14:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/video_engine_manager.py:30:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/video_engine_manager.py:39:80: E501 line too long (132 > 79 characters)
+live-engine/mgmt/video_engine_manager.py:45:80: E501 line too long (116 > 79 characters)
+live-engine/mgmt/video_engine_manager.py:66:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/video_engine_manager.py:70:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/video_engine_manager.py:76:80: E501 line too long (101 > 79 characters)
+live-engine/mgmt/video_engine_manager.py:79:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/video_engine_manager.py:82:16: E713 test for membership should be 'not in'
+live-engine/mgmt/video_engine_manager.py:83:80: E501 line too long (91 > 79 characters)
+live-engine/mgmt/video_engine_manager.py:87:80: E501 line too long (144 > 79 characters)
+live-engine/mgmt/video_engine_manager.py:93:9: E722 do not use bare 'except'
+live-engine/mgmt/video_engine_manager.py:100:80: E501 line too long (82 > 79 characters)
+live-engine/mgmt/video_engine_manager.py:111:1: W293 blank line contains whitespace
+live-engine/mgmt/video_engine_manager.py:113:80: E501 line too long (83 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:4:1: F401 'thread' imported but unused
+live-engine/mgmt/video_transcode_job.py:5:1: F401 'time' imported but unused
+live-engine/mgmt/video_transcode_job.py:7:14: W291 trailing whitespace
+live-engine/mgmt/video_transcode_job.py:8:1: F401 'urllib2' imported but unused
+live-engine/mgmt/video_transcode_job.py:8:15: W291 trailing whitespace
+live-engine/mgmt/video_transcode_job.py:9:1: F401 'requests' imported but unused
+live-engine/mgmt/video_transcode_job.py:17:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/video_transcode_job.py:23:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:49:28: E261 at least two spaces before inline comment
+live-engine/mgmt/video_transcode_job.py:49:29: E262 inline comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:68:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:70:1: W293 blank line contains whitespace
+live-engine/mgmt/video_transcode_job.py:72:13: E265 block comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:73:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:79:9: E722 do not use bare 'except'
+live-engine/mgmt/video_transcode_job.py:80:80: E501 line too long (104 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:84:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:86:1: W293 blank line contains whitespace
+live-engine/mgmt/video_transcode_job.py:94:1: W293 blank line contains whitespace
+live-engine/mgmt/video_transcode_job.py:95:12: E713 test for membership should be 'not in'
+live-engine/mgmt/video_transcode_job.py:100:80: E501 line too long (104 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:106:80: E501 line too long (99 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:111:27: E231 missing whitespace after ':'
+live-engine/mgmt/video_transcode_job.py:111:50: E231 missing whitespace after ':'
+live-engine/mgmt/video_transcode_job.py:112:1: W293 blank line contains whitespace
+live-engine/mgmt/video_transcode_job.py:116:80: E501 line too long (111 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:117:80: E501 line too long (127 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:118:1: W293 blank line contains whitespace
+live-engine/mgmt/video_transcode_job.py:124:1: W293 blank line contains whitespace
+live-engine/mgmt/video_transcode_job.py:125:28: E231 missing whitespace after ':'
+live-engine/mgmt/video_transcode_job.py:125:61: E231 missing whitespace after ':'
+live-engine/mgmt/video_transcode_job.py:125:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:126:34: E231 missing whitespace after ':'
+live-engine/mgmt/video_transcode_job.py:126:71: E231 missing whitespace after ':'
+live-engine/mgmt/video_transcode_job.py:126:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:127:33: E231 missing whitespace after ':'
+live-engine/mgmt/video_transcode_job.py:129:1: W293 blank line contains whitespace
+live-engine/mgmt/video_transcode_job.py:133:9: E722 do not use bare 'except'
+live-engine/mgmt/video_transcode_job.py:134:80: E501 line too long (110 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:135:80: E501 line too long (80 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:137:1: W293 blank line contains whitespace
+live-engine/mgmt/video_transcode_job.py:138:80: E501 line too long (89 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:144:9: E722 do not use bare 'except'
+live-engine/mgmt/video_transcode_job.py:145:80: E501 line too long (122 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:146:80: E501 line too long (100 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:149:80: E501 line too long (115 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:150:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:157:35: E261 at least two spaces before inline comment
+live-engine/mgmt/video_transcode_job.py:157:36: E262 inline comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:163:48: E261 at least two spaces before inline comment
+live-engine/mgmt/video_transcode_job.py:163:49: E262 inline comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:172:80: E501 line too long (95 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:176:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:177:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:180:30: E261 at least two spaces before inline comment
+live-engine/mgmt/video_transcode_job.py:180:80: E501 line too long (96 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:185:9: E265 block comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:186:9: E265 block comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:187:9: E265 block comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:190:9: E265 block comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:191:9: E265 block comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:194:9: E265 block comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:195:1: W293 blank line contains whitespace
+live-engine/mgmt/video_transcode_job.py:202:80: E501 line too long (98 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:213:80: E501 line too long (97 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:215:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:221:80: E501 line too long (87 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:223:80: E501 line too long (128 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:227:1: W293 blank line contains whitespace
+live-engine/mgmt/video_transcode_job.py:231:80: E501 line too long (102 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:237:80: E501 line too long (106 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:242:80: E501 line too long (105 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:246:13: E265 block comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:247:13: E265 block comment should start with '# '
+live-engine/mgmt/video_transcode_job.py:248:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:253:80: E501 line too long (107 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:258:80: E501 line too long (113 > 79 characters)
+live-engine/mgmt/video_transcode_job.py:260:1: W293 blank line contains whitespace
+live-engine/mgmt/video_transcode_job.py:261:80: E501 line too long (109 > 79 characters)
+live-engine/mgmt/vsi.py:3:1: E265 block comment should start with '# '
+live-engine/mgmt/vsi.py:5:1: F401 're' imported but unused
+live-engine/mgmt/vsi.py:6:1: F401 'sys' imported but unused
+live-engine/mgmt/vsi.py:6:10: E401 multiple imports on one line
+live-engine/mgmt/vsi.py:7:1: F401 'os.path' imported but unused
+live-engine/mgmt/vsi.py:8:1: F811 redefinition of unused 'stat' from line 6
+live-engine/mgmt/vsi.py:8:1: F401 'stat' imported but unused
+live-engine/mgmt/vsi.py:11:1: E265 block comment should start with '# '
+live-engine/mgmt/vsi.py:12:1: E265 block comment should start with '# '
+live-engine/mgmt/vsi.py:13:1: E265 block comment should start with '# '
+live-engine/mgmt/vsi.py:14:1: E265 block comment should start with '# '
+live-engine/mgmt/vsi.py:18:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/vsi.py:19:3: E111 indentation is not a multiple of 4
+live-engine/mgmt/vsi.py:21:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/vsi.py:24:38: E225 missing whitespace around operator
+live-engine/mgmt/vsi.py:26:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/vsi.py:34:12: E225 missing whitespace around operator
+live-engine/mgmt/vsi.py:50:1: W293 blank line contains whitespace
+live-engine/mgmt/vsi.py:53:80: E501 line too long (86 > 79 characters)
+live-engine/mgmt/vsi.py:54:80: E501 line too long (81 > 79 characters)
+live-engine/mgmt/vsi.py:58:1: E302 expected 2 blank lines, found 1
+live-engine/mgmt/vsi.py:65:1: E305 expected 2 blank lines after class or function definition, found 1
